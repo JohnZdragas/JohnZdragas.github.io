@@ -14,7 +14,7 @@ title_separator          : "-"
 name                     : "mibook"
 description              : "Making Interactivity Greek Book."
 url                      : "https://johnzdragas.github.io"
-baseurl                  : ""
+baseurl                  : "https://johnzdragas.github.io/"
 repository               : "/gr"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
